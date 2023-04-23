@@ -3,7 +3,6 @@
 <p>Hi everyone, this is Arnol, I'm a software engineering student who loves programming, read, video games, coffee and football.<br>
 I'm starting my journey on Github and excited to share my projects with the community.</p>
 
-
 <h3 align="left"><strong> Languages and Tools:</strong></h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,java,javascript,git,github" />
@@ -12,6 +11,14 @@ I'm starting my journey on Github and excited to share my projects with the comm
 <p align="keft">
     <img src="https://skillicons.dev/icons?i=python,vue,nodejs" />
 </p>
+<!-- Soon...
+<h3 align="left"><strong>GitHub stats</strong></h3>
+
+<p align="left"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnolcb&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+-->
+
 <h3 align="left"><strong> Connect with me:</strong> </h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnolcaceres)
