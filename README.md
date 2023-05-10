@@ -4,17 +4,17 @@
 I'm starting my journey on Github and excited to share my projects with the community.</p>
 
 <h3 align="left"><strong> Languages and Tools:</strong></h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,git,github" />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,git,github" />
 </p>
 <h3 align="left"><strong> I'm currently learning:</strong></h3>
-<p align="keft">
-    <img src="https://skillicons.dev/icons?i=python,vue,nodejs" />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,react,vue,nodejs" />
 </p>
 
 <h3 align="left"><strong>GitHub stats</strong></h3>
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnolcb&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
@@ -25,4 +25,3 @@ I'm starting my journey on Github and excited to share my projects with the comm
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vpp35bn3rgtqctcggs687ci22)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199179827786/)
 ![Discord](https://img.shields.io/badge/444rnol%230317-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/444rnol/)
