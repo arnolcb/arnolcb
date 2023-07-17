@@ -9,7 +9,7 @@ I'm starting my journey on Github and excited to share my projects with the comm
 </p>
 <h3 align="left"><strong> I'm currently learning:</strong></h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,cs" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,cs,net" />
 </p>
 
 <h3 align="left"><strong>GitHub stats</strong></h3>
