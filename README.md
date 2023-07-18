@@ -5,7 +5,7 @@ I'm starting my journey on Github and excited to share my projects with the comm
 
 <h3 align="left"><strong> Languages and Tools:</strong></h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,vue,git,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,vue,tailwind,git,github" />
 </p>
 <h3 align="left"><strong> I'm currently learning:</strong></h3>
 <p align="center">
