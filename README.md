@@ -1,6 +1,6 @@
 <h2><strong> Hello World!</strong> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVjZnZ1Nm81Z2gxc2J1aWtxZWFyMjJidzZodnhpN2M4dHZ3OGR5ZCZjdD1z/4PVeey0T30PAiBYq9n/giphy.gif" width="50"></h2>
 
-<p>Not a software engineering.</p>
+<p>Not a software engineer</p>
 
 <h3 align="left"><strong> Languages and Tools:</strong></h3>
 <p align="center">
